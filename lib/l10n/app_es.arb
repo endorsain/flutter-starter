@@ -1,0 +1,143 @@
+{
+  "@@locale": "es",
+  "localePreferenceRestoreError": "No se pudo restaurar la preferencia de idioma guardada.",
+  "@localePreferenceRestoreError": {
+    "description": "Se muestra cuando no se puede cargar el idioma guardado."
+  },
+  "themePreferenceRestoreError": "No se pudo restaurar la preferencia de tema guardada.",
+  "@themePreferenceRestoreError": {
+    "description": "Se muestra cuando no se puede cargar el tema guardado."
+  },
+  "languageSystem": "Automático (idioma del dispositivo)",
+  "@languageSystem": {
+    "description": "Opción de idioma que sigue la configuración del dispositivo."
+  },
+  "languageEnglish": "Inglés",
+  "@languageEnglish": {
+    "description": "Opción manual de idioma inglés."
+  },
+  "languageSpanish": "Español",
+  "@languageSpanish": {
+    "description": "Opción manual de idioma español."
+  },
+  "loginTitle": "Iniciar sesión",
+  "@loginTitle": {
+    "description": "Título de la pantalla de inicio de sesión."
+  },
+  "loginDescription": "El acceso de desarrollo es simulado y no se comunica con un servidor.",
+  "@loginDescription": {
+    "description": "Explica que el inicio de sesión es una simulación local de desarrollo."
+  },
+  "authDebugOnly": "El acceso simulado sólo está disponible en compilaciones debug.",
+  "@authDebugOnly": {
+    "description": "Se muestra al intentar usar la autenticación simulada fuera del modo debug."
+  },
+  "loginAction": "Continuar",
+  "@loginAction": {
+    "description": "Envía el formulario de acceso simulado."
+  },
+  "registerTitle": "Crear una cuenta",
+  "@registerTitle": {
+    "description": "Título de la pantalla de registro."
+  },
+  "registerUnavailable": "El registro todavía no está conectado.",
+  "@registerUnavailable": {
+    "description": "Explica que el registro no está implementado."
+  },
+  "registerPrompt": "¿No tenés una cuenta? Registrate",
+  "@registerPrompt": {
+    "description": "Enlace desde el acceso hacia el registro."
+  },
+  "backToLogin": "Volver al inicio de sesión",
+  "@backToLogin": {
+    "description": "Vuelve desde el registro al inicio de sesión."
+  },
+  "emailLabel": "Correo electrónico",
+  "@emailLabel": {
+    "description": "Etiqueta del campo de correo electrónico."
+  },
+  "passwordLabel": "Contraseña",
+  "@passwordLabel": {
+    "description": "Etiqueta del campo de contraseña."
+  },
+  "requiredFieldError": "Este campo es obligatorio.",
+  "@requiredFieldError": {
+    "description": "Mensaje de validación para un campo obligatorio."
+  },
+  "logoutAction": "Cerrar sesión",
+  "@logoutAction": {
+    "description": "Etiqueta accesible para cerrar sesión."
+  },
+  "mapTab": "Mapa",
+  "@mapTab": {
+    "description": "Etiqueta del destino de navegación Mapa."
+  },
+  "profileTab": "Perfil",
+  "@profileTab": {
+    "description": "Etiqueta del destino de navegación Perfil."
+  },
+  "settingsTab": "Configuración",
+  "@settingsTab": {
+    "description": "Etiqueta del destino de navegación Configuración."
+  },
+  "cameraTab": "Cámara",
+  "@cameraTab": {
+    "description": "Etiqueta del destino de navegación Cámara."
+  },
+  "playgroundTab": "Pruebas",
+  "@playgroundTab": {
+    "description": "Etiqueta del destino de navegación Pruebas."
+  },
+  "mapTitle": "Mapa",
+  "@mapTitle": {
+    "description": "Encabezado del destino Mapa."
+  },
+  "mapPlaceholder": "La integración de mapas se agregará cuando se implemente esta función.",
+  "@mapPlaceholder": {
+    "description": "Indica que todavía no hay un mapa real disponible."
+  },
+  "profileTitle": "Perfil",
+  "@profileTitle": {
+    "description": "Encabezado del destino Perfil."
+  },
+  "profilePlaceholder": "Los detalles del perfil se agregarán cuando se implemente esta función.",
+  "@profilePlaceholder": {
+    "description": "Indica que la funcionalidad del perfil todavía no está implementada."
+  },
+  "settingsTitle": "Configuración",
+  "@settingsTitle": {
+    "description": "Encabezado de la configuración."
+  },
+  "themeSettingTitle": "Apariencia",
+  "@themeSettingTitle": {
+    "description": "Encabezado de la opción de selección de tema."
+  },
+  "themeCosmo": "Cosmo",
+  "@themeCosmo": {
+    "description": "Nombre del tema visual Cosmo."
+  },
+  "themeWanda": "Wanda",
+  "@themeWanda": {
+    "description": "Nombre del tema visual Wanda."
+  },
+  "languageSettingTitle": "Idioma",
+  "@languageSettingTitle": {
+    "description": "Encabezado de la opción de selección de idioma."
+  },
+  "cameraTitle": "Cámara",
+  "@cameraTitle": {
+    "description": "Encabezado del destino Cámara."
+  },
+  "cameraPlaceholder": "La captura con la cámara todavía no está implementada.",
+  "@cameraPlaceholder": {
+    "description": "Indica que la captura con la cámara no está disponible."
+  },
+  "playgroundTitle": "Pruebas",
+  "@playgroundTitle": {
+    "description": "Encabezado del destino Pruebas."
+  },
+  "playgroundPlaceholder": "Esta área está reservada para experimentos de desarrollo.",
+  "@playgroundPlaceholder": {
+    "description": "Explica el propósito del área de pruebas."
+  }
+}

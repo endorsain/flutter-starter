@@ -1,0 +1,143 @@
+{
+  "@@locale": "en",
+  "localePreferenceRestoreError": "The saved language preference could not be restored.",
+  "@localePreferenceRestoreError": {
+    "description": "Shown when the saved language preference cannot be loaded."
+  },
+  "themePreferenceRestoreError": "The saved theme preference could not be restored.",
+  "@themePreferenceRestoreError": {
+    "description": "Shown when the saved theme preference cannot be loaded."
+  },
+  "languageSystem": "Automatic (device language)",
+  "@languageSystem": {
+    "description": "Language option that follows the device language."
+  },
+  "languageEnglish": "English",
+  "@languageEnglish": {
+    "description": "Manual language option for English."
+  },
+  "languageSpanish": "Spanish",
+  "@languageSpanish": {
+    "description": "Manual language option for Spanish."
+  },
+  "loginTitle": "Log in",
+  "@loginTitle": {
+    "description": "Title of the login screen."
+  },
+  "loginDescription": "Development sign-in is simulated and does not contact a server.",
+  "@loginDescription": {
+    "description": "Explains that login is a local development simulation."
+  },
+  "authDebugOnly": "Simulated sign-in is available only in debug builds.",
+  "@authDebugOnly": {
+    "description": "Shown when trying to use simulated authentication outside debug mode."
+  },
+  "loginAction": "Continue",
+  "@loginAction": {
+    "description": "Submits the development login form."
+  },
+  "registerTitle": "Create an account",
+  "@registerTitle": {
+    "description": "Title of the registration screen."
+  },
+  "registerUnavailable": "Registration is not connected yet.",
+  "@registerUnavailable": {
+    "description": "Explains that registration is not implemented."
+  },
+  "registerPrompt": "Don't have an account? Register",
+  "@registerPrompt": {
+    "description": "Link from the login screen to registration."
+  },
+  "backToLogin": "Back to login",
+  "@backToLogin": {
+    "description": "Returns from registration to login."
+  },
+  "emailLabel": "Email",
+  "@emailLabel": {
+    "description": "Email field label."
+  },
+  "passwordLabel": "Password",
+  "@passwordLabel": {
+    "description": "Password field label."
+  },
+  "requiredFieldError": "This field is required.",
+  "@requiredFieldError": {
+    "description": "Validation message for a required form field."
+  },
+  "logoutAction": "Log out",
+  "@logoutAction": {
+    "description": "Accessible label for the log out action."
+  },
+  "mapTab": "Map",
+  "@mapTab": {
+    "description": "Navigation destination label for the map tab."
+  },
+  "profileTab": "Profile",
+  "@profileTab": {
+    "description": "Navigation destination label for the profile tab."
+  },
+  "settingsTab": "Settings",
+  "@settingsTab": {
+    "description": "Navigation destination label for the settings tab."
+  },
+  "cameraTab": "Camera",
+  "@cameraTab": {
+    "description": "Navigation destination label for the camera tab."
+  },
+  "playgroundTab": "Playground",
+  "@playgroundTab": {
+    "description": "Navigation destination label for the playground tab."
+  },
+  "mapTitle": "Map",
+  "@mapTitle": {
+    "description": "Heading for the map destination."
+  },
+  "mapPlaceholder": "Map integration will be added when this feature is implemented.",
+  "@mapPlaceholder": {
+    "description": "Placeholder explaining that no real map is available yet."
+  },
+  "profileTitle": "Profile",
+  "@profileTitle": {
+    "description": "Heading for the profile destination."
+  },
+  "profilePlaceholder": "Profile details will be added when this feature is implemented.",
+  "@profilePlaceholder": {
+    "description": "Placeholder explaining that profile functionality is not implemented."
+  },
+  "settingsTitle": "Settings",
+  "@settingsTitle": {
+    "description": "Heading for settings."
+  },
+  "themeSettingTitle": "Appearance",
+  "@themeSettingTitle": {
+    "description": "Heading for the theme selection setting."
+  },
+  "themeCosmo": "Cosmo",
+  "@themeCosmo": {
+    "description": "Name of the Cosmo visual theme."
+  },
+  "themeWanda": "Wanda",
+  "@themeWanda": {
+    "description": "Name of the Wanda visual theme."
+  },
+  "languageSettingTitle": "Language",
+  "@languageSettingTitle": {
+    "description": "Heading for the language selection setting."
+  },
+  "cameraTitle": "Camera",
+  "@cameraTitle": {
+    "description": "Heading for the camera destination."
+  },
+  "cameraPlaceholder": "Camera capture is not implemented yet.",
+  "@cameraPlaceholder": {
+    "description": "Placeholder explaining that camera capture is not available."
+  },
+  "playgroundTitle": "Playground",
+  "@playgroundTitle": {
+    "description": "Heading for the playground destination."
+  },
+  "playgroundPlaceholder": "This area is reserved for development experiments.",
+  "@playgroundPlaceholder": {
+    "description": "Placeholder explaining the purpose of the playground."
+  }
+}
